@@ -1,5 +1,5 @@
 # PlydoughPCB
-![](media.JPG)
+![](media.jpg)
 
 PlydoughPCB is open source project that is done in [Fablab UAE](fablabuae.ae). Its meant to introduce kids to the world of Printed Circuits Boards (PCBs) in safe and yet enjoyable way!
 
