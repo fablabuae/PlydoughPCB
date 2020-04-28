@@ -17,27 +17,27 @@ PlydoughPCB is open source project that is done in [Fablab UAE](fablabuae.ae). I
 
 -  Mount the push button in its place by press it down gently
 
-  ![](step3.JPG)
+  ![](step3.jpg)
 
 - Add plydough in the empty slots shown below
 
-  ![](step4.JPG)
+  ![](step4.jpg)
 
 - Attach the battery snaper and insert the battery in its place
 
- ![](step6.JPG)
+ ![](step6.jpg)
 
 - Insert the LED in its assigned place while taking care of the + and - legs (- is the shortest!)
 
-  ![](step7.JPG)
+  ![](step7.jpg)
 
 - Connect the battery + and - wires as follows (- to the input of the button and + to the LED +)
 
-  ![](step8.JPG)
+  ![](step8.jpg)
 
 - Use the small jumper wire to connect the button output to the (-) terminal of the LED and you are done!
 
-  ![](step9.JPG)
+  ![](step9.jpg)
 
 ## License
 ![](license.png)  This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
